@@ -1,0 +1,6 @@
+A(@, 157.7.140.127, 默认, 600, 0)
+MX(@, mx.zohomail.com., 默认, 600, 5)
+MX(@, mx2.zohomail.com., 默认, 600, 10)
+TXT(@, v=spf1 mx include:zoho.com ~all, 默认, 600, 0)
+CNAME(mail, u1.free.mfpad.com., 默认, 600, 0)
+A(www, 157.7.140.127, 默认, 600, 0)
